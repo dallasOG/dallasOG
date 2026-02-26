@@ -1,0 +1,7 @@
+## Vittor Dallacqua
+
+Computer Science undergraduate at Universidade Positivo with a Technical Diploma in Information Technology from PUC-PR (2022). Passionate about data analysis and data engineering. 
+
+Currently working as a Data Analyst Intern at Electrolux Group, supporting data-driven decision-making and developing analytical solutions.
+
+[LinkedIn](https://www.linkedin.com/in/vdallacqua/) | [GitHub](https://github.com/dallasOG) | [Instagram](https://www.instagram.com/dallastinks)
