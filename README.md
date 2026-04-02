@@ -4,4 +4,4 @@ Computer Science undergraduate at Universidade Positivo with a Technical Diploma
 
 Currently working as a Data Analyst Intern at Electrolux Group, supporting data-driven decision-making and developing analytical solutions.
 
-[LinkedIn](https://www.linkedin.com/in/vdallacqua/) | [GitHub](https://github.com/dallasOG) | [Instagram](https://www.instagram.com/dallastinks)
+[LinkedIn](https://www.linkedin.com/in/vdallacqua/) | [GitHub](https://github.com/dallasOG)
